@@ -1,0 +1,6 @@
+{
+    "require": {
+        "phpgt/webengine": "dev-master",
+	    "ext-intl": "*"
+    }
+}
